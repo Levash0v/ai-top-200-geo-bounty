@@ -1,0 +1,6 @@
+# AI — Top 200 influential papers
+
+| entity_name | entity_type | year | era | short_description | why_it_matters | introduces_concepts | authors | source_url | avatar_url | cover_url |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Attention is all you need | Paper | 2017 | Transformer era | Introduced a transformer architecture based entirely on attention mechanisms, replacing recurrence and convolution in sequence modeling. | Became the foundation of modern large language models and scaling laws. | Attention mechanism; Transformer | Ashish Vaswani; Noam Shazeer; Niki Parmar | https://arxiv.org/abs/1706.03762 | | |
+| ImageNet classification with deep convolutional neural networks | Paper | 2012 | Deep learning era | Demonstrated large-scale convolutional neural networks trained with GPUs for image recognition tasks. | Triggered the deep learning breakthrough in computer vision. | Convolutional networks | Alex Krizhevsky; Ilya Sutskever; Geoffrey Hinton | https://papers.nips.cc/paper/4824 | | |
