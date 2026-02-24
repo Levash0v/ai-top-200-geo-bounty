@@ -1,5 +1,21 @@
-# Papers (Top 200)
 
-| entity_name | entity_type | publication_date | year | venue | era | abstract_or_summary | key_contribution | arxiv_url | doi_url | semantic_scholar_url | paperswithcode_url | citation_count_approx | first_author_affiliation | authors | orgs | topics | models_introduced | datasets_introduced | code_repo_url | cover_url | notes |
-|---|---|---|---|---|---|---|---|---|---|---|---|---:|---|---|---|---|---|---|---|---|---|
-| Attention is all you need | Paper | 2017-06-12 | 2017 | NeurIPS | Transformer era | Introduced the transformer architecture using self-attention to model sequence dependencies without recurrence or convolution. | Established attention-only sequence modeling; enabled scalable LLM architectures. | https://arxiv.org/abs/1706.03762 |  |  |  |  | Google | Ashish Vaswani; Noam Shazeer; Niki Parmar | Google | Attention mechanism; Transformer | Transformer |  |  |  |  |
+Paper
+│
+├── Metadata
+│   ├── Year
+│   ├── Venue
+│   ├── Citations
+│
+├── Intellectual relations
+│   ├── Topics
+│   ├── Concepts
+│   ├── Models introduced
+│   ├── Datasets introduced
+│
+├── Social relations
+│   ├── Authors
+│   ├── Labs / Companies
+│
+└── Meaning
+    ├── Summary
+    ├── Key contribution
