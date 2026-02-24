@@ -27,3 +27,7 @@ AI (Space)
 ├── Papers (Top 200)
 │
 └── People
+
+This dataset represents AI as an evolving graph of ideas:
+
+Eras → Concepts → Papers → People
